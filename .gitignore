@@ -13,12 +13,7 @@ __pycache__/
 build/
 dist/
 *.egg-info/
-
-# Models
-models/          
-*.joblib         
-*.pkl            
-*.model          
+         
 
 # IDE / System Files
 .vscode/
