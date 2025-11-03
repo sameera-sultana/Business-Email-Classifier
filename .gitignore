@@ -1,0 +1,28 @@
+venv/
+env/
+nlp_project/
+.venv/
+.env/
+conda_env/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+build/
+dist/
+*.egg-info/
+
+# Models
+models/          
+*.joblib         
+*.pkl            
+*.model          
+
+# IDE / System Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
