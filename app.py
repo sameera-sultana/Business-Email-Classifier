@@ -90,7 +90,7 @@ def main():
     }
     
     # Email input
-    st.subheader("Classify Email")
+    st.subheader("Business Email Classifier")
     
     # Example selector
     selected = st.selectbox("Choose example:", ["Custom Email"] + list(examples.keys()))
