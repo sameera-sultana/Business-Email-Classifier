@@ -8,8 +8,10 @@ pip install -r requirements.txt
 
 Train the model:
 python main.py
+
 Launch web app:
 streamlit run app.py
+
 ✨ Features
 Multi-label classification: Priority, Topic, Action Required
 
