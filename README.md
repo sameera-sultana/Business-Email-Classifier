@@ -1,4 +1,4 @@
-Business Email Classification System
+Business Email Classification System.
 A machine learning system that automatically categorizes business emails by priority, topic, and action requirements.
 
 🚀 Quick Start
