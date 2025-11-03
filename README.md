@@ -13,6 +13,7 @@ Launch web app:
 streamlit run app.py
 
 ✨ Features
+
 Multi-label classification: Priority, Topic, Action Required
 
 Real-time analysis: Instant email categorization
@@ -23,8 +24,11 @@ Confidence scores: Transparent prediction probabilities
 
 🛠️ Tech Stack
 ML: Scikit-learn, Random Forest
+
 NLP: NLTK, TF-IDF
+
 Web: Streamlit
+
 Data: Pandas, NumPy
 
 
